@@ -1,16 +1,17 @@
-body {
+#background {
 background-color: white;
 }
 
-p{
+p {
 font-size: 20px;
 margin-top: 20px;
 }
 
 
-.btn-info, .btn-warning, .btn-success{
+.btn-info, .btn-warning, .btn-success {
 height: 100px;
 width: 150px;
 margin-top: 70px;
+font-size: 30px;
 }
 
